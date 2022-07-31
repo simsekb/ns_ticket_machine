@@ -1,7 +1,11 @@
 # NS-KAARTAUTOMAAT
 BESCHRIJVING: Deze applicatie geeft reizigers de mogelijkheid actuele vertrektijden in te zien van reizen van een beginstation naar een eindstation.
 
-INSTALLATIE: De Python bestanden worden geïmplementeerd in Pycharm en vervolgens word het script ```GUI.py``` opgestart.
+INSTALLATIE & RUNNEN: 
+1. Clone
+2. Open up Python IDE
+3. Make sure TKinter is installed (Lib used for the UI)
+4. Enjoy!
 
 LICENTIE: Deze applicatie met de bijbehorende video's zijn gemaakt ter behoeve van educatieve doeleinden en mogen niet gebruikt worden voor commerciële doeleinden zonder toestemming van de auteurs van het programma.
 
